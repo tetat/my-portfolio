@@ -1,0 +1,14 @@
+[
+    {
+        "id": "1",
+        "title": "Programming Trainer",
+        "company": "HABHIT Computer Club",
+        "type": "Part-time",
+        "descriptions": [
+            "Mentor and support club members in their learning journey.",
+            "Encourage participation in competitions to enhance their skills."
+        ],
+        "start": "03/2019",
+        "end": "11/2019"
+    }
+]

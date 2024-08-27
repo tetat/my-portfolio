@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "school": "National University, Bangladesh",
+        "degree": "Bachelor of Science",
+        "subject": "Computer Science and Engineering",
+        "start": "01/2017",
+        "end": "11/2023"
+    },
+    {
+        "id": "2",
+        "school": "kalihati College",
+        "degree": "Higher School Certificate",
+        "subject": "Science",
+        "start": "07/2013",
+        "end": "06/2016"
+    },
+    {
+        "id": "3",
+        "school": "Kalihati RS Government Pilot High School",
+        "degree": "Secondary School Certificate",
+        "subject": "Science",
+        "start": "01/2008",
+        "end": "03/2013"
+    }
+]
