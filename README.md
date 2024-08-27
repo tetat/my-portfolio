@@ -22,8 +22,19 @@ Install all dependencies using Composer:
 composer install
 ```
 
+Copy the `.env.example` file and make the required configuration changes in the `.env` file:
+
+```bash
+cp .env.example .env
+```
+
+Generate a new application key:
+
+```bash
+php artisan key:generate
+```
+
 Run the database migrations (set the database connection in `.env` before migrating):
-Note: Use `sqlite` in `DB_CONNECTION` but I am using json files to get my info.
 
 ```bash
 php artisan migrate
