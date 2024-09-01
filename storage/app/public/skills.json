@@ -2,41 +2,41 @@
     {
         "id": "1",
         "name": "C++",
-        "img_url": "/assets/images/skills/cpp.png"
+        "img_url": "assets/images/skills/cpp.png"
     },
     {
         "id": "2",
         "name": "PHP",
-        "img_url": "/assets/images/skills/php.png"
+        "img_url": "assets/images/skills/php.png"
     },
     {
         "id": "3",
         "name": "Laravel",
-        "img_url": "/assets/images/skills/laravel.svg"
+        "img_url": "assets/images/skills/laravel.svg"
     },
     {
         "id": "4",
         "name": "MySQL",
-        "img_url": "/assets/images/skills/mysql.png"
+        "img_url": "assets/images/skills/mysql.png"
     },
     {
         "id": "5",
         "name": "HTML",
-        "img_url": "/assets/images/skills/html.png"
+        "img_url": "assets/images/skills/html.png"
     },
     {
         "id": "6",
         "name": "CSS",
-        "img_url": "/assets/images/skills/css.png"
+        "img_url": "assets/images/skills/css.png"
     },
     {
         "id": "7",
         "name": "Tailwind CSS",
-        "img_url": "/assets/images/skills/tailwind.png"
+        "img_url": "assets/images/skills/tailwindcss.png"
     },
     {
         "id": "8",
         "name": "Git",
-        "img_url": "/assets/images/skills/git.png"
+        "img_url": "assets/images/skills/git.png"
     }
 ]

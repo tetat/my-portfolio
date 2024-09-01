@@ -3,21 +3,21 @@
         "id": "01",
         "title": "Simple Banking Web Application (PHP)",
         "description": "Developed a user-friendly PHP web application catering to banking systems.",
-        "img_url": "/assets/images/projects/bank.png",
+        "img_url": "assets/images/projects/bank.png",
         "github_url": "https://github.com/tetat/simple-banking-web-application/tree/bank-with-db"
     },
     {
         "id": "02",
         "title": "Anonymous Feedback Application",
         "description": "An anonymous feedback platform, where anonymous user can give their feedback about registered users",
-        "img_url": "/assets/images/projects/feedback.png",
+        "img_url": "assets/images/projects/feedback.png",
         "github_url": "https://github.com/tetat/anonymous-feedback-application"
     },
     {
         "id": "03",
         "title": "Income Expense Tracker CLI Application",
         "description": "Developed a PHP Income Expense Tracker CLI application systems. The application allowing users to track their daily Income Expenses.",
-        "img_url": "/assets/images/projects/IETrack.png",
+        "img_url": "assets/images/projects/IETrack.png",
         "github_url": "https://github.com/tetat/income-expense-tracker-cli-application/tree/IncExp2"
     }
 ]

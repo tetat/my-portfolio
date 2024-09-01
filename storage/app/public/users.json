@@ -1,0 +1,28 @@
+[
+    {
+        "name": "Md. Nishat Miah",
+        "title": "Back-end Web Developer",
+        "descriptions": [
+            "As a motivated and detail-oriented Backend Web Developer, I have foundational expertise in PHP, and MySQL, with hands-on experience in the Laravel framework. My background in competitive programming(C++) has honed my problem-solving skills and ability to tackle complex coding challenges efficiently.",
+            "My goal is to become a highly skilled PHP developer, where I can contribute to and grow within challenging projects that push the boundaries of web development."
+        ],
+        "img_url": "assets/images/nishat.jpg",
+        "socials": [
+            {
+                "name": "LinkedIn",
+                "url": "https://linkedin.com/in/tetat/",
+                "logo": "assets/images/social/linkedin-in-brands-solid.svg"
+            },
+            {
+                "name": "GitHub",
+                "url": "https://github.com/tetat",
+                "logo": "assets/images/social/github-brands-solid.svg"
+            },
+            {
+                "name": "Email",
+                "url": "mailto:nishat00101@gmail.com",
+                "logo": "assets/images/social/envelope-regular.svg"
+            }
+        ]
+    }
+]
